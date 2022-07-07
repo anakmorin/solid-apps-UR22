@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">SolidPlanner</string>
-
-    <string name="login">Iniciar Sesión</string>
-    <string name="signin">Registrarse</string>
-    <string name="email">Correo electrónico</string>
-    <string name="password">Contraseña</string>
-    <string name="password2">Confirmar Contraseña</string>
-</resources>
