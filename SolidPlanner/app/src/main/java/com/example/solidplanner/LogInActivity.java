@@ -47,7 +47,7 @@ public class LogInActivity extends AppCompatActivity {
                     Toast.makeText(getApplicationContext(), "Bienvenido!", Toast.LENGTH_SHORT).show();
                     FirebaseUser user = mAuth.getCurrentUser();
                     // updateUI( user );
-                    Intent i = new Intent(getApplicationContext(), MainActivity.class);
+                    Intent i = new Intent(getApplicationContext(), UserActivity.class);
                     startActivity(i);
 
                 } else {

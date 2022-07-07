@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".SignInActivity">
+    tools:context=".UserActivity">
 
     <LinearLayout
         android:layout_width="350dp"
@@ -19,40 +19,23 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent">
 
-        <EditText
-            android:id="@+id/email"
+        <TextView
+            android:id="@+id/message"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:ems="10"
-            android:hint="@string/email"
-            android:inputType="textPersonName"
-            android:minHeight="48dp"
-            android:textColorHint="#757575" />
+            android:gravity="center"
+            android:text="@string/message" />
 
-        <EditText
-            android:id="@+id/password"
+        <Space
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:ems="10"
-            android:hint="@string/password"
-            android:inputType="textPassword"
-            android:minHeight="48dp" />
-
-        <EditText
-            android:id="@+id/password2"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:ems="10"
-            android:hint="@string/password2"
-            android:inputType="textPassword"
-            android:minHeight="48dp"
-            android:textColorHint="#757575" />
+            android:layout_height="50dp" />
 
         <Button
-            android:id="@+id/SignIn2"
+            android:id="@+id/logout"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:onClick="SignIn"
-            android:text="@string/signin" />
+            android:onClick="LogOut"
+            android:text="@string/logout"
+            tools:ignore="UsingOnClickInXml" />
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
