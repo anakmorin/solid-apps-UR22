@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ProjectRootManager">
-    <output url="file://$PROJECT_DIR$/out" />
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Maxim/Documents/- MXs Files WORK-/- UNIVERSITY -/- 9no Tetra -/- Desarrollo de Aplicaciones AVANZADAS -/3er Parcial/Prueba 2/CalendarEvent-master/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.242" />
+        <entry key="..\:/Users/Maxim/Documents/- MXs Files WORK-/- UNIVERSITY -/- 9no Tetra -/- Desarrollo de Aplicaciones AVANZADAS -/3er Parcial/Prueba 2/CalendarEvent-master/app/src/main/res/drawable/ic_launcher_background.xml" value="0.242" />
+        <entry key="..\:/Users/Maxim/Documents/- MXs Files WORK-/- UNIVERSITY -/- 9no Tetra -/- Desarrollo de Aplicaciones AVANZADAS -/3er Parcial/Prueba 2/CalendarEvent-master/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.242" />
+        <entry key="..\:/Users/Maxim/Documents/- MXs Files WORK-/- UNIVERSITY -/- 9no Tetra -/- Desarrollo de Aplicaciones AVANZADAS -/3er Parcial/Prueba 2/CalendarEvent-master/app/src/main/res/drawable/round_button.xml" value="0.242" />
+        <entry key="..\:/Users/Maxim/Documents/- MXs Files WORK-/- UNIVERSITY -/- 9no Tetra -/- Desarrollo de Aplicaciones AVANZADAS -/3er Parcial/Prueba 2/CalendarEvent-master/app/src/main/res/font/days_one.xml" value="0.4112820512820513" />
+        <entry key="..\:/Users/Maxim/Documents/- MXs Files WORK-/- UNIVERSITY -/- 9no Tetra -/- Desarrollo de Aplicaciones AVANZADAS -/3er Parcial/Prueba 2/CalendarEvent-master/app/src/main/res/layout/activity_log_in.xml" value="0.25226449275362317" />
+        <entry key="..\:/Users/Maxim/Documents/- MXs Files WORK-/- UNIVERSITY -/- 9no Tetra -/- Desarrollo de Aplicaciones AVANZADAS -/3er Parcial/Prueba 2/CalendarEvent-master/app/src/main/res/layout/activity_main.xml" value="0.25226449275362317" />
+        <entry key="..\:/Users/Maxim/Documents/- MXs Files WORK-/- UNIVERSITY -/- 9no Tetra -/- Desarrollo de Aplicaciones AVANZADAS -/3er Parcial/Prueba 2/CalendarEvent-master/app/src/main/res/layout/activity_main_solid.xml" value="0.25226449275362317" />
+        <entry key="..\:/Users/Maxim/Documents/- MXs Files WORK-/- UNIVERSITY -/- 9no Tetra -/- Desarrollo de Aplicaciones AVANZADAS -/3er Parcial/Prueba 2/CalendarEvent-master/app/src/main/res/layout/activity_sign_in.xml" value="0.25226449275362317" />
+        <entry key="..\:/Users/Maxim/Documents/- MXs Files WORK-/- UNIVERSITY -/- 9no Tetra -/- Desarrollo de Aplicaciones AVANZADAS -/3er Parcial/Prueba 2/CalendarEvent-master/app/src/main/res/layout/activity_user.xml" value="0.22" />
+        <entry key="..\:/Users/Maxim/Documents/- MXs Files WORK-/- UNIVERSITY -/- 9no Tetra -/- Desarrollo de Aplicaciones AVANZADAS -/3er Parcial/Prueba/CalendarEvent-master/app/src/main/res/drawable/round_button.xml" value="0.2225" />
+        <entry key="..\:/Users/Maxim/Documents/- MXs Files WORK-/- UNIVERSITY -/- 9no Tetra -/- Desarrollo de Aplicaciones AVANZADAS -/3er Parcial/Prueba/CalendarEvent-master/app/src/main/res/font/days_one.xml" value="0.4112820512820513" />
+        <entry key="..\:/Users/Maxim/Documents/- MXs Files WORK-/- UNIVERSITY -/- 9no Tetra -/- Desarrollo de Aplicaciones AVANZADAS -/3er Parcial/Prueba/CalendarEvent-master/app/src/main/res/layout/activity_main.xml" value="0.5" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
   </component>
 </project>

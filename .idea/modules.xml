@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/solid-apps-UR22.iml" filepath="$PROJECT_DIR$/.idea/solid-apps-UR22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CalendarEvent.iml" filepath="$PROJECT_DIR$/.idea/modules/CalendarEvent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CalendarEvent.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CalendarEvent.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CalendarEvent.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CalendarEvent.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CalendarEvent.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CalendarEvent.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CalendarEvent.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CalendarEvent.app.unitTest.iml" />
     </modules>
   </component>
 </project>
