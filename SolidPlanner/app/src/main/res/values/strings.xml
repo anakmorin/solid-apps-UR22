@@ -2,10 +2,12 @@
     <string name="app_name">SolidPlanner</string>
 
     <string name="login">Iniciar Sesión</string>
-    <string name="signin">Registrarse</string>
+    <string name="signin">Registrar</string>
     <string name="email">Correo electrónico</string>
+    <string name="nombre">Nombres</string>
     <string name="password">Contraseña</string>
     <string name="password2">Confirmar Contraseña</string>
     <string name="message">Bienvenido a SolidPlanner</string>
     <string name="logout">Cerrar Sesión</string>
+    <string name="tengoCuenta">Tengo una cuenta</string>
 </resources>
