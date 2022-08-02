@@ -7,7 +7,24 @@
     <string name="nombre">Nombres</string>
     <string name="password">Contraseña</string>
     <string name="password2">Confirmar Contraseña</string>
-    <string name="message">Bienvenido a SolidPlanner</string>
     <string name="logout">Cerrar Sesión</string>
     <string name="tengoCuenta">Tengo una cuenta</string>
+    <string name="noTengoCuenta">¿No tienes una cuenta? Regístrate</string>
+
+    <string name="titulo">Nombre del evento</string>
+    <string name="descripcion">Descripción del evento</string>
+    <string name="btn_calendario">Fecha</string>
+    <string name="btn_hora">Hora</string>
+    <string name="fecha">00/00/0000</string>
+    <string name="hora">00:00</string>
+
+    <string name="message">Bienvenido(a)</string>
+    <string name="UidPrincipal"> -- </string>
+    <string name="nombresPrincipal"> -- </string>
+    <string name="correoPrincipal"> -- </string>
+
+    <string name="addEvent">Añadir Evento</string>
+    <string name="showEvents">Mostrar Eventos</string>
+
+    <string name="agregarEvento">Guardar Evento</string>
 </resources>

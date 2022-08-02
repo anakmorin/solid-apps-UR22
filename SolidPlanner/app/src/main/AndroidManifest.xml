@@ -12,10 +12,10 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.SolidPlanner">
         <activity
-            android:name=".ViewEventActivity"
+            android:name=".ShowEvents.ViewEventActivity"
             android:exported="false" />
         <activity
-            android:name=".AddEventActivity"
+            android:name=".AddEvents.AddEventActivity"
             android:exported="false" />
         <activity
             android:name=".UserActivity"
